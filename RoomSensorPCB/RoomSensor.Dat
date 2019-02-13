@@ -1,0 +1,19 @@
+﻿Field=#~Integer~#~50|Field=Comment~String~Comment~100|Field=Description~String~Description~100|Field=Designator~String~Designator~100|Field=Footprint~String~Footprint~100|Field=LibRef~String~LibRef~100|Field=Quantity~Integer~Quantity~100|ReportField=Currency~<none>|ReportField=ProductionQuantity~1|ReportField=ProjectFileName~RoomSensor.PrjPcb|ReportField=ProjectFullPath~C:\Users\Nathan\Documents\Altium\Projects\RoomSensor\RoomSensor.PrjPcb|ReportField=Title~Bill of Materials For Project [RoomSensor.PrjPcb] (No PCB Document Selected)|ReportField=TotalQuantity~26|ReportField=ReportTime~9:41:39 PM|ReportField=ReportDate~2/16/2018|ReportField=ReportDateTime~2/16/2018 9:41:39 PM|ReportField=OutputName~Bill of Materials|ReportField=OutputType~BOM_PartType|ReportField=GeneratorName~BOM|ReportField=GeneratorDescription~Bill of Materials|ReportField=VariantName~None|ReportField=Address1~|ReportField=Address2~|ReportField=Address3~|ReportField=Address4~|ReportField=Application_BuildNumber~|ReportField=ApprovedBy~|ReportField=Author~|ReportField=CheckedBy~|ReportField=CompanyName~|ReportField=CurrentDate~2/16/2018|ReportField=CurrentTime~9:37:18 PM|ReportField=Date~|ReportField=DocumentFullPathAndName~C:\Users\Nathan\Documents\Altium\Projects\RoomSensor\RoomSensor.SchDoc|ReportField=DocumentName~RoomSensor.SchDoc|ReportField=DocumentNumber~|ReportField=DrawnBy~|ReportField=Engineer~|ReportField=ImagePath~|ReportField=ModifiedDate~1/15/2018|ReportField=Organization~|ReportField=ProjectName~RoomSensor.PrjPcb|ReportField=Revision~|ReportField=Rule~|ReportField=SheetNumber~|ReportField=SheetTotal~|ReportField=Time~|ReportField=Title~|ReportField=DataSourceFileName~RoomSensor.PrjPcb|ReportField=DataSourceFullPath~C:\Users\Nathan\Documents\Altium\Projects\RoomSensor\RoomSensor.PrjPcb|ReportField=PCBConfigurationName~Sources|ReportField=Item~|ReportField=ItemRevision~|ReportField=ItemAndRevision~|ReportField=ItemRevisionBase~|ReportField=ItemRevisionLevel1~|ReportField=ItemRevisionLevel2~|ReportField=ItemRevisionLevel1AndBase~|ReportField=ItemRevisionLevel2AndLevel1~
+1|0603C-10u|0603C-10u|C1, C6|CHIP_0603|0603C-10u|2
+2|0603C-100n|0603C-100n|C2, C3, C4|CHIP_0603|0603C-100n|3
+3|0603C-4.7u|0603C-4.7u|C5|CHIP_0603|0603C-4.7u|1
+4|JST_XH_2x1|JST XH Header 2 pin, 1 row, 2.5mm pitch|J1|JST_XH_2x1|JST_XH_2x1|1
+5|ME3220-472MLB|ME3220-472MLB|L1|ME3220-472MLB|ME3220-472MLB|1
+6|Boost Convrt|Header, 3-Pin|P1|3x1 Header|Header 3|1
+7|PIR|Header, 3-Pin|P2|HDR1X3|Header 3|1
+8|TTL|Header, 3-Pin, Right Angle|P3|3x1 Header|Header 3H|1
+9|0805R-10k|0805R-10k|R1, R4, R5, R6, R7|Chip_0805|0805R-10k|5
+10|0805R-470|0805R-470|R2, R3|Chip_0805|0805R-470|2
+11|0805R-4.7k|0805R-4.7k|R8|Chip_0805|0805R-4.7k|1
+12|0805R-1.69M|0805R-1.69M|R9|Chip_0805|0805R-1.69M|1
+13|0805R-1M|0805R-1M|R10|Chip_0805|0805R-1M|1
+14|FLASH|TL3305AF260QG|SW1|TL3305AF260QG|SW_PB|1
+15|RESET|TL3305AF260QG|SW2|TL3305AF260QG|SW_PB|1
+16|MAX31820|MAX31820|U1|TO-92|MAX31820|1
+17|ESP-WROOM-02|ESP-WROOM-02|U2|ESP-WROOM-02|ESP-WROOM-02|1
+18|MCP16251||U3|SOT23 MCP16251|MCP16251T|1

@@ -1,0 +1,5 @@
+2pin battery connection to board
+Battery mount on back of board instead of connection?
+Boost converter design, with holes for optional exterior module
+Programmer/USB connection for wifi chip
+Input for external PIR board

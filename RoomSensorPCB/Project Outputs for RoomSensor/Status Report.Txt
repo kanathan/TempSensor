@@ -1,0 +1,12 @@
+Output: Copy of NC Drill Files
+Type  : NC Drill
+From  : PCB Document [RoomSensor.PcbDoc]
+   Generated File[RoomSensor.TXT]
+   Generated File[RoomSensor.LDP]
+   Generated File[RoomSensor.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 8:37:19 PM On 1/25/2018
